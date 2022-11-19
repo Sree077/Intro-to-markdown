@@ -7,5 +7,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 - [x] Read the readme file
+
 - [x] understand markdown
-- [x] merge pull request
+
+- [ ] merge pull request
